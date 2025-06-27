@@ -33,6 +33,6 @@ A Streamlit + FastAPI web app that uses OpenRouter AI models to analyze and extr
 Screen Recording of the output:
 
 
-https://github.com/user-attachments/assets/76d2d7d6-bfcd-4150-8787-fdee2d8d04c1
+https://github.com/user-attachments/assets/a413426e-bef1-4701-8e6a-6199a0fcbd12
 
 
